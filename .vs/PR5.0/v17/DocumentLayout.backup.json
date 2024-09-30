@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\VS code\\PR5.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D784D-FBBC-41DB-9AFB-C8AE145B92FE}|UnitTest5.0\\UnitTest5.0.vcxproj|D:\\VS\\VS code\\PR5.0\\UnitTest5.0\\UnitTest5.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F66D784D-FBBC-41DB-9AFB-C8AE145B92FE}|UnitTest5.0\\UnitTest5.0.vcxproj|solutionrelative:UnitTest5.0\\UnitTest5.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75011C1-B626-4DEF-AB97-0B6221C3BC74}|PR5.0.vcxproj|D:\\VS\\VS code\\PR5.0\\PR5.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B75011C1-B626-4DEF-AB97-0B6221C3BC74}|PR5.0.vcxproj|solutionrelative:PR5.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest5.0.cpp",
+              "DocumentMoniker": "D:\\VS\\VS code\\PR5.0\\UnitTest5.0\\UnitTest5.0.cpp",
+              "RelativeDocumentMoniker": "UnitTest5.0\\UnitTest5.0.cpp",
+              "ToolTip": "D:\\VS\\VS code\\PR5.0\\UnitTest5.0\\UnitTest5.0.cpp",
+              "RelativeToolTip": "UnitTest5.0\\UnitTest5.0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T19:12:54.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PR5.0.cpp",
+              "DocumentMoniker": "D:\\VS\\VS code\\PR5.0\\PR5.0.cpp",
+              "RelativeDocumentMoniker": "PR5.0.cpp",
+              "ToolTip": "D:\\VS\\VS code\\PR5.0\\PR5.0.cpp",
+              "RelativeToolTip": "PR5.0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T19:06:00.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
